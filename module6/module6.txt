@@ -1,5 +1,5 @@
 package module6 // import "."
 
 func FunctionForModule6GoDoc()
-    this is a comment
+    "FunctionForModule6GoDoc this is a comment"
 
