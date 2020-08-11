@@ -1,3 +1,5 @@
 package module6 // import "."
 
 func FunctionForModule6GoDoc()
+    go doc for FunctionForModule6GoDoc
+
