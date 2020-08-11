@@ -1,5 +1,0 @@
-package module6 // import "."
-
-func FunctionForModule6GoDoc()
-    "FunctionForModule6GoDoc this is a comment"
-
